@@ -1,5 +1,3 @@
-# React + Vite
-
 **E-commerce Website for Buying Clothes**  
 - Developed a fully functional e-commerce platform for clothing using **React**.  
 - Designed and implemented a responsive front-end with a dynamic and interactive user interface.  
